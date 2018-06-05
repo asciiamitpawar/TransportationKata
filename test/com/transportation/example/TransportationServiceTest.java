@@ -1,8 +1,10 @@
-package com.homedepot.transportation.example;
+package com.transportation.example;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
+
+import com.transportation.example.TransportationService;
 
 public class TransportationServiceTest {
 

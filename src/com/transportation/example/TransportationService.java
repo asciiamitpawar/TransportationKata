@@ -1,4 +1,4 @@
-package com.homedepot.transportation.example;
+package com.transportation.example;
 
 public class TransportationService {
 
